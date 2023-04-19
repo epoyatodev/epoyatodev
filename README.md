@@ -2,7 +2,7 @@
 
 # :wave: Hi, I’m Enrique! 
 # [![LinkedIn][linkedin-shield]][linkedin-url]
-My name is Enrique Poyato and I am a IOS developer graduated from [KeepCoding](https://keepcoding.io/). 
+My name is Enrique Poyato and I am a IOS developer Student in [KeepCoding](https://keepcoding.io/). 
 
 ## IOS Skills
 
