@@ -2,7 +2,7 @@
 
 # :wave: Hi, I’m Enrique! 
 # [![LinkedIn][linkedin-shield]][linkedin-url]
-My name is Enrique Poyato and I'm IOS Developer with 2 years of experience. (https://keepcoding.io/). 
+My name is Enrique Poyato and I'm IOS Developer with 2 years of experience.
 
 ## IOS Skills
 
