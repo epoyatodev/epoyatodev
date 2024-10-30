@@ -2,7 +2,18 @@
 
 # :wave: Hi, I’m Enrique! 
 # [![LinkedIn][linkedin-shield]][linkedin-url]
-My name is Enrique Poyato and I'm IOS Developer with 2 years of experience.
+Software Engineer with over two years of experience in iOS application development. Passionate about building intuitive, high-performance mobile solutions that make a difference. I also work on freelance projects, allowing me to collaborate across various industries and expand my technical expertise. Open to connecting and contributing to exciting, impactful projects!
+
+## My apps and Components
+
+* <a href="http://example.com/](https://daringfireball.net](https://github.com/epoyatodev/RickAndMortyApp" title="Title">Rick & Morty App:</a>    SwiftUI + Swift 6 + 
+Protocol-oriented MVVM + SwiftData
+* <a href="https://github.com/epoyatodev/MapKitSwiftUI" title="Title">Map Kit Search and Route:</a>    SwiftUI + Swift 5 + 
+MapKit + LookAround
+* <a href="https://github.com/epoyatodev/WeatherAppDesign" title="Title">Weather app design:</a>    SwiftUI
+* <a href="https://github.com/epoyatodev/Animated-Paging-Indicators" title="Title">Animated paging indicators:</a>    SwiftUI + Swift 5
+* <a href="https://github.com/epoyatodev/BottonSheet" title="Title">Custom Blur Sheet:</a>    SwiftUI + Swift 5
+* <a href="https://github.com/epoyatodev/TaskApp" title="Title">Task App:</a>    SwiftUI + Firebase
 
 ## IOS Skills
 
@@ -41,7 +52,7 @@ My name is Enrique Poyato and I'm IOS Developer with 2 years of experience.
 [linkedin-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
 [linkedin-url]: https://www.linkedin.com/in/enrique-poyato-ortiz-%EF%A3%BF-7447b3200/
 [gmail-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=
-[gmail-url]: mailto:enripoor@hotmail.es
+[gmail-url]: mailto:epoyatodev@gmail.com
 [Medium]: https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=
 [medium-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=
 [medium-url]: https://medium.com/@yagomuros1
