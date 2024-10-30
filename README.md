@@ -6,7 +6,7 @@ Software Engineer with over two years of experience in iOS application developme
 
 ## My apps and Components
 
-* <a href="http://example.com/](https://daringfireball.net](https://github.com/epoyatodev/RickAndMortyApp" title="Title">Rick & Morty App:</a>    SwiftUI + Swift 6 + 
+* <a href="https://github.com/epoyatodev/RickAndMortyApp" title="Title">Rick & Morty App:</a>    SwiftUI + Swift 6 + 
 Protocol-oriented MVVM + SwiftData
 * <a href="https://github.com/epoyatodev/MapKitSwiftUI" title="Title">Map Kit Search and Route:</a>    SwiftUI + Swift 5 + 
 MapKit + LookAround
