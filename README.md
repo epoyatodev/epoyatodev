@@ -2,7 +2,19 @@
 
 # :wave: Hi, I’m Enrique! 
 # [![LinkedIn][linkedin-shield]][linkedin-url]
-Software Engineer with over two years of experience in iOS application development. Passionate about building intuitive, high-performance mobile solutions that make a difference. I also work on freelance projects, allowing me to collaborate across various industries and expand my technical expertise. Open to connecting and contributing to exciting, impactful projects!
+Software Engineer with over four years of experience in iOS application development. Passionate about building intuitive, high-performance mobile solutions that make a difference. I also work on freelance projects, allowing me to collaborate across various industries and expand my technical expertise. Open to connecting and contributing to exciting, impactful projects!
+
+## Published Apps on the App Store
+
+### MiTrimestre
+
+<a href="https://apps.apple.com/es/app/mitrimestre/id6766935713">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+       alt="Download on the App Store" 
+       width="180">
+</a>
+
+Track your VAT and income tax in real time. No surprises at the end of the quarter.
 
 ## My apps and Components
 
