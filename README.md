@@ -29,7 +29,7 @@ MapKit + LookAround
 * <a href="https://github.com/epoyatodev/BottonSheet" title="Title">Custom Blur Sheet:</a>    SwiftUI + Swift 5
 * <a href="https://github.com/epoyatodev/TaskApp" title="Title">Task App:</a>    SwiftUI + Firebase
 
-## IOS Skills
+## iOS Skills
 
 ![IOS](https://img.shields.io/static/v1?style=for-the-badge&message=IOS&color=222222&logo=Apple&logoColor=white&label=)
 ![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=orange&logo=Swift&logoColor=white&label=)
